@@ -3,6 +3,12 @@ Data Engineering Guide
 
 This is a repo with tools used in data engineering
 
+# Databases
+* Relational
+    * [MySQL](https://www.mysql.com/) The most popular Open Source SQL database management system.
+    * [Oracle](https://www.oracle.com/database/) A robust, reliable and safe SGBD.
+    * [PostgreSQL](https://www.postgresql.org/) A powerful open source object-relational database system.
+    * [SQLServer](https://docs.microsoft.com/en-us/sql/sql-server/) A database management system developed by Microsoft.
 
 # File Format (serialization)
 * [Apache Avro](https://avro.apache.org) Apache Avro is row-oriented serialization that use JSON for defining data types and protocols.

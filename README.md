@@ -7,6 +7,8 @@ This is a repo with tools used in data engineering
 * Column
     * [AWS Redshift](https://aws.amazon.com/redshift/) A fully-managed petabyte-scale cloud based data warehouse product designed for large scale data set storage and analysis.
     * [Cassandra](https://cassandra.apache.org/) A SGBD designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure.
+* Document
+    [MongoDB](https://www.mongodb.com) A cross-platform document-oriented database, uses JSON-like documents with optional schemas.
 * Relational
     * [MySQL](https://www.mysql.com/) The most popular Open Source SQL database management system.
     * [Oracle](https://www.oracle.com/database/) A robust, reliable and safe SGBD.

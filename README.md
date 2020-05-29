@@ -27,3 +27,9 @@ This is a repo with tools used in data engineering
 * [Azkaban](https://azkaban.github.io/) A batch workflow job scheduler.
 * [Kedro](https://github.com/quantumblacklabs/kedro) A development workflow framework that implements software engineering best-practice for data pipelines.
 * [Luigi](https://github.com/spotify/luigi) Helps you to build batch jobs pipelines and monitor them all.
+
+# Stream Pipelines
+* [Apache Hudi](https://hudi.apache.org/) An open source framework for managing storage for real time processing, one of the most interesting feature is the Upsert.
+* [Apache NiFi](https://nifi.apache.org/) Automate your data flow between systems with reliable and no single point of failure.
+* [Apache Flink](https://flink.apache.org/) An open-source stream-processing framework, provides multiple APIs at different levels of abstraction and offers dedicated libraries for common use cases.
+* [Spark Streaming](https://spark.apache.org/streaming/) An extension of the core Spark that enables scalable, high-throughput, fault-tolerant stream processing of live data streams.

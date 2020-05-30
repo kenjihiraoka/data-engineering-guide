@@ -21,6 +21,7 @@ This is a repo with tools used in data engineering
 * [Apache Avro](https://avro.apache.org) A row-oriented serialization that use JSON for defining data types and protocols.
 * [Apache Parquet](https://parquet.apache.org) An open-source column-oriented serialization, it's specialized in efficiently storing and processing nested data types.
 * [Apache ORC](https://orc.apache.org/) A column-oriented serialization highly optimized for reading and writing.
+* [Delta Lake](https://delta.io/) An open-source storage layer that brings reliability to data lakes.
 
 # Pipeline Orchestration
 * [Apache Airflow](https://github.com/apache/airflow) An open-source workflow management plataform, it schedule workflows and monitor them via your own UI.

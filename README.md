@@ -29,6 +29,10 @@ This is a repo with tools used in data engineering
 * [Kedro](https://github.com/quantumblacklabs/kedro) A development workflow framework that implements software engineering best-practice for data pipelines.
 * [Luigi](https://github.com/spotify/luigi) Helps you to build batch jobs pipelines and monitor them all.
 
+# Batch Pipelines
+* [Hadoop MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html) Processing and generating big data sets with a parallel, distributed algorithm on a cluster.
+* [Spark](https://spark.apache.org/) An open-source distributed general-purpose cluster-computing framework.
+
 # Stream Pipelines
 * [Apache Hudi](https://hudi.apache.org/) An open source framework for managing storage for real time processing, one of the most interesting feature is the Upsert.
 * [Apache NiFi](https://nifi.apache.org/) Automate your data flow between systems with reliable and no single point of failure.
